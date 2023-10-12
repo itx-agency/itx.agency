@@ -11546,6 +11546,17 @@ button.bg-slack:focus {
     padding-top: 3rem !important;
 }
 
+.aa{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.img-sz{
+    size: 50px;
+    height: 100px;
+}
+
 .pr-5,
 .px-5 {
     padding-right: 3rem !important;
