@@ -6604,6 +6604,11 @@ input[type="button"].btn-block {
     padding: 1.25rem;
 }
 
+.pp{
+    text-align: justify;
+    min-height: 310px;
+}
+
 .card-img {
     width: 100%;
     border-radius: calc(0.55rem - 0.0625rem);
