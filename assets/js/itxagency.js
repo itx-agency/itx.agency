@@ -430,7 +430,7 @@ $(document).ready(function () {
 document
   .getElementById("whatsappButton")
   .addEventListener("click", function () {
-    var phoneNumber = "+94702010042";
+    var phoneNumber = "+94768747642";
     var whatsappURL = "https://wa.me/" + phoneNumber;
 
     window.open(whatsappURL, "_blank");
